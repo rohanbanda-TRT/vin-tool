@@ -1,0 +1,12 @@
+[project]
+name = "vin-tool"
+version = "0.1.0"
+description = "MCP tool for VIN number validation and vehicle information retrieval"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp>=0.1.0",
+    "fastmcp>=0.1.0",
+    "httpx>=0.24.0",
+    "requests>=2.28.0"
+]
