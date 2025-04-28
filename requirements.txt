@@ -1,0 +1,15 @@
+fastmcp>=2.2.0
+mcp-client>=0.2.0
+google-auth>=2.39.0
+google-auth-oauthlib>=1.2.1
+google-api-python-client>=2.167.0
+google-api-core>=2.17.1
+cachetools>=5.5.2
+pyasn1>=0.6.1
+pyasn1-modules>=0.4.2
+cryptography>=44.0.2
+requests-oauthlib>=2.0.0
+oauthlib>=3.2.2
+requests>=2.31.0
+urllib3>=2.0.0
+protobuf>=4.25.3
